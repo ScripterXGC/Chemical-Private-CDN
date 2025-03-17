@@ -72,14 +72,14 @@
     {
         "mapId": "m1014_old",
         "mapIcon": "https://chemical-private-cdn.vercel.app/game-icons/g1014.png",
-        "mapName": "Jail Break (Old)",
+        "mapName": "Jail Break",
         "mapZipUrl": "https://chemical-private-cdn.vercel.app/maps/m1014_old.zip",
-        "mapSpawnPos": "-24 19 202"
+        "mapSpawnPos": "19 5 150"
     },
     {
         "mapId": "m1046",
         "mapIcon": "https://chemical-private-cdn.vercel.app/game-icons/g1046.png",
-        "mapName": "Bed Wars Hall",
+        "mapName": "Bed Wars Lobby",
         "mapZipUrl": "https://chemical-private-cdn.vercel.app/maps/m1046.zip",
         "mapSpawnPos": "1701 94 -573"
     },
